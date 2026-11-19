@@ -32,4 +32,4 @@ python hotel_management.py
 Python Mini Project
 
 ## Author
-Your Name
+Harshad Bhasakare
